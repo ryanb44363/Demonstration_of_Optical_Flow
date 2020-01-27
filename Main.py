@@ -1,7 +1,14 @@
 import numpy as np
 import cv2 as cv
 import time
-import os
+
+#Make Sure to Download Video and save in same file.
+#Right is RED   Left is Blue
+#Download from here:
+# https://drive.google.com/file/d/1z6BuP-3aWjBk1BytTAX321AhPltbf_lc/view?usp=sharing
+#Credit: OpenCV2020
+
+#Also, make sure to do: "python3.8 Main.py" for running and displaying.
 
 time.sleep(1)
 print('-------------')
